@@ -30,7 +30,7 @@ public class GradeAverage {
         int sum = (math + physical + chemical + Turkish + History + music);
         double result = sum/count;
         System.out.println("result: "+result);
-        String ortalama = result >= 60.0 ? "Sınıfı Geçti" : "Sınıfta Kaldı";
+        String ortalama = result >= 60.0 ? "Sinifi Gecti" : "Sinifta Kaldi";
         System.out.println("sonuc : " + ortalama);
     }
 }
