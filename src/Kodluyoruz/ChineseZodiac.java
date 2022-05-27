@@ -8,7 +8,7 @@ public class ChineseZodiac {
         int birthYear;
         String burc = "";
 
-        System.out.print("Doğum yılınızı giriniz : ");
+        System.out.print("Doğum yılınızı giriniz: ");
         birthYear = input.nextInt();
 
         switch (birthYear % 12) {
