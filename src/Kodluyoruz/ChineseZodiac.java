@@ -11,7 +11,6 @@ public class ChineseZodiac {
         System.out.print("Doğum yılınızı giriniz: ");
 
         birthYear = input.nextInt();
-
         switch (birthYear % 12) {
             case 0 -> burc = "Maymun";
             case 1 -> burc = "Horoz";
