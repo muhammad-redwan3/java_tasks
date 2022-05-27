@@ -30,3 +30,5 @@ public class ChineseZodiac {
         System.out.print("Çin Zodyağı burcunuz : " + burc);
     }
 }
+
+
