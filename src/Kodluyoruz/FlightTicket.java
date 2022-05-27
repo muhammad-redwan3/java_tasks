@@ -41,8 +41,5 @@ public class FlightTicket {
         } else {
             System.out.print("Hatalı Veri Girdiniz !.");
         }
-
-
-
     }
 }
