@@ -9,7 +9,7 @@ public class ClassStatus {
         int number = 5;
         double average;
 
-        System.out.println("Lütfen notlarınızı 0-100 arasında olacak şekilde giriniz.");
+        System.out.println("Please enter your grades between 0-100.");
         System.out.print(" enter a note in Maths : ");
         mat = input.nextInt();
         System.out.print("enter a note in Turkish: ");
